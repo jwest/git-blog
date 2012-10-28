@@ -2,7 +2,7 @@ title: Wdrażanie aplikacji z repozytorium Git-a | Git-ftp
 date: 2012-06-27 20:30:00
 tags: git, php, programowanie, środowisko pracy, Techblog
 ---
-Zainspirowany pytaniem o dobre wsparcie edytora dla ftp-a, postanowiłem podzielić się sposobem na wdrażanie aplikacji "po mojemu" ;)
+Zainspirowany pytaniem o dobre wsparcie edytora dla ftp-a, postanowiłem podzielić się sposobem na wdrażanie aplikacji "po mojemu";)
 
 Gdy już zacząłem na dobre korzystać z git-a do prowadzenia projektów, chciałem mieć możliwość podnoszenia zmian za pomocą tego narzędzia. Nie zawsze jednak dysponuję środowiskiem git-a na serwerze produkcyjnym żeby zrobić zwykłego clona i pull-a.
 
